@@ -1,0 +1,8 @@
+C:\Users\marcc\source\repos\PruebaObjetosDiccionario\PruebaObjetosDiccionario\bin\Debug\PruebaObjetosDiccionario.exe.config
+C:\Users\marcc\source\repos\PruebaObjetosDiccionario\PruebaObjetosDiccionario\bin\Debug\PruebaObjetosDiccionario.exe
+C:\Users\marcc\source\repos\PruebaObjetosDiccionario\PruebaObjetosDiccionario\bin\Debug\PruebaObjetosDiccionario.pdb
+C:\Users\marcc\source\repos\PruebaObjetosDiccionario\PruebaObjetosDiccionario\obj\Debug\PruebaObjetosDiccionario.csproj.AssemblyReference.cache
+C:\Users\marcc\source\repos\PruebaObjetosDiccionario\PruebaObjetosDiccionario\obj\Debug\PruebaObjetosDiccionario.csproj.SuggestedBindingRedirects.cache
+C:\Users\marcc\source\repos\PruebaObjetosDiccionario\PruebaObjetosDiccionario\obj\Debug\PruebaObjetosDiccionario.csproj.CoreCompileInputs.cache
+C:\Users\marcc\source\repos\PruebaObjetosDiccionario\PruebaObjetosDiccionario\obj\Debug\PruebaObjetosDiccionario.exe
+C:\Users\marcc\source\repos\PruebaObjetosDiccionario\PruebaObjetosDiccionario\obj\Debug\PruebaObjetosDiccionario.pdb
